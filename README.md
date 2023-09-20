@@ -9,6 +9,9 @@
 
 ## 감사합니다.
 
+## TopLangs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limforever00&layout=compact)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimforever00%2Flimforever00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
@@ -25,3 +28,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+👑 LANGUAGE FRAMEWORK  
+
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)  
+![java](https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)  
+![jupyter](https://img.shields.io/badge/jupyter%20notebook-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) 
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  
+![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
+![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)  
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+<!-- * HTML
+* CSS
+* JAVASCRIPT
+* JQuery
+* MySQL -->
+
+👑 INFRA & TOOLS
+<!-- * Git
+* GitHub
+* Notion 
+* VSCode -->
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-181717.svg?&style=for-the-badge&logo=VSCode&logoColor=white)
+
