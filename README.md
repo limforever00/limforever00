@@ -4,10 +4,13 @@
 
 # 안녕하세요. 임덕현입니다.
 <!-- 
-## 저는 지난 3년 동안 엣데이터에서 개발자로 활동하였습니다. 다양한 프로젝트와 팀원들과의 협업을 통해 성장할 수 있는 기회를 얻었고, 이를 바탕으로 새 회사에서도 더 나은 성과를 
-## 내기 위해 최선을 다하겠습니다. 새로운 환경에서도 빠르게 적응하고, 팀원들과 원활한 소통을 통해 함께 발전해 나가고 싶습니다. 많은 지도와 피드백 부탁드립니다. -->
+## 저는 지난 3년 동안 엣데이터에서 자바 개발자로 근무하였습니다. 
+다양한 프로젝트와 팀원들과의 협업을 통해 성장할 수 있는 기회를 얻었고, 
+이를 바탕으로 새 회사에서도 더 나은 성과를 내기 위해 최선을 다하겠습니다. 
+새로운 환경에서도 빠르게 적응하고, 팀원들과 원활한 소통을 통해 
+함께 발전해 나가고 싶습니다. 많은 지도와 피드백 부탁드립니다. 
 
-## 감사합니다.
+## 감사합니다. -->
 
 ## TopLangs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limforever00&layout=compact)
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-👑 LANGUAGE FRAMEWORK  
+👨‍💻 LANGUAGE FRAMEWORK  
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)  
@@ -42,13 +45,14 @@ Here are some ideas to get you started:
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
 ![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)  
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 <!-- * HTML
 * CSS
 * JAVASCRIPT
 * JQuery
 * MySQL -->
 
-👑 INFRA & TOOLS
+👨‍💻 INFRA & TOOLS
 <!-- * Git
 * GitHub
 * Notion 
