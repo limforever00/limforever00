@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=FUN%20%20%20CODING!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=%20%20%20CODING!&fontAlign=40&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 
