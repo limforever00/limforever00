@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# 안녕하세요. 임덕현입니다.
+<!-- 
+## 저는 지난 3년 동안 엣데이터에서 개발자로 활동하였습니다. 다양한 프로젝트와 팀원들과의 협업을 통해 성장할 수 있는 기회를 얻었고, 이를 바탕으로 새 회사에서도 더 나은 성과를 
+## 내기 위해 최선을 다하겠습니다. 새로운 환경에서도 빠르게 적응하고, 팀원들과 원활한 소통을 통해 함께 발전해 나가고 싶습니다. 많은 지도와 피드백 부탁드립니다. -->
+
+## 감사합니다.
+
+
 <!--
 **limforever00/limforever00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
