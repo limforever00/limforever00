@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 👨‍💻 LANGUAGE FRAMEWORK  
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-[django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![java](https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)  
 ![jupyter](https://img.shields.io/badge/jupyter%20notebook-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) 
